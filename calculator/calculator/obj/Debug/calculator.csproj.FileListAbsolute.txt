@@ -1,0 +1,13 @@
+C:\Users\Elnour Tech\Desktop\calculator\calculator\calculator\obj\Debug\calculator.csproj.AssemblyReference.cache
+C:\Users\Elnour Tech\Desktop\calculator\calculator\calculator\obj\Debug\calculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\Elnour Tech\Desktop\calculator\calculator\calculator\obj\Debug\calculator.Form1.resources
+C:\Users\Elnour Tech\Desktop\calculator\calculator\calculator\obj\Debug\calculator.Properties.Resources.resources
+C:\Users\Elnour Tech\Desktop\calculator\calculator\calculator\obj\Debug\calculator.csproj.GenerateResource.cache
+C:\Users\Elnour Tech\Desktop\calculator\calculator\calculator\obj\Debug\calculator.csproj.CoreCompileInputs.cache
+C:\Users\Elnour Tech\Desktop\calculator\calculator\calculator\bin\Debug\calculator.exe.config
+C:\Users\Elnour Tech\Desktop\calculator\calculator\calculator\bin\Debug\calculator.exe
+C:\Users\Elnour Tech\Desktop\calculator\calculator\calculator\bin\Debug\calculator.pdb
+C:\Users\Elnour Tech\Desktop\calculator\calculator\calculator\bin\Debug\Guna.UI2.dll
+C:\Users\Elnour Tech\Desktop\calculator\calculator\calculator\obj\Debug\calculator.csproj.CopyComplete
+C:\Users\Elnour Tech\Desktop\calculator\calculator\calculator\obj\Debug\calculator.exe
+C:\Users\Elnour Tech\Desktop\calculator\calculator\calculator\obj\Debug\calculator.pdb
